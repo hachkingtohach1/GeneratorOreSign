@@ -5,7 +5,7 @@ One plugin simple for PmmP
 
 how to create one sign generator ?
 
-line 1: generator
-line 2: name ore ex: Gold,Diamond,Emerald
-and wait some second(s)!
+- line 1: generator
+- line 2: name ore ex: Gold,Diamond,Emerald
+- And wait some second(s)!
 
