@@ -1,6 +1,6 @@
 name: GeneratorOreSign
 api: [3.0.0]
-version: 1.0.0
+version: 1.0
 main: hachkingtohach1\GeneratorOreSign\GeneratorOreSign
 author: DragoVN
 description: One generator ore sign for pmmp.
